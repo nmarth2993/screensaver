@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ScreenSaver": {
+      "commandName": "Project",
+      "commandLineArgs": "/s"
+    }
+  }
+}
